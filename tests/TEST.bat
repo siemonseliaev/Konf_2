@@ -2,6 +2,6 @@
 chcp 65001 >nul
 cd /d "%~dp0.."
 
-python src\main.py --vfs my_vfs.tar --script tests\startup.txt
+python src\Konf_2.py --vfs my_vfs.tar --script tests\startup.txt
 
 pause
