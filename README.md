@@ -30,6 +30,7 @@ python main.py
 ```
 
 ### 2. Пример использования
+``` text
 Путь к VFS: test.tar
 Путь к стартовому скрипту: start.txt
 
