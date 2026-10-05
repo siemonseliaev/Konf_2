@@ -1,1 +1,20 @@
+# вывод меню
+help
 
+# Проверка ls
+ls
+ls 
+ls "value1" /bin
+
+# Проверка cd
+cd /home/user
+
+# Ввод ошибок
+cd
+cd value2 value123
+
+unknown_cmd
+
+exit 123
+
+exit
